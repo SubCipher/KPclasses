@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5076D8D1-7E11-4069-8D4F-93154AC5FF14</string>
+	<key>IDESourceControlProjectName</key>
+	<string>KPclasses</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E9F4DE210CF6C8E82A1BF7833808497388847DF7</key>
+		<string>github.com:SubCipher/KPclasses.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>KPclasses.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E9F4DE210CF6C8E82A1BF7833808497388847DF7</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:SubCipher/KPclasses.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E9F4DE210CF6C8E82A1BF7833808497388847DF7</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E9F4DE210CF6C8E82A1BF7833808497388847DF7</string>
+			<key>IDESourceControlWCCName</key>
+			<string>KPclasses</string>
+		</dict>
+	</array>
+</dict>
+</plist>

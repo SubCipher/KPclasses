@@ -15,6 +15,7 @@
 		1848ABC41BB1A8BA00B69597 /* KPclassesTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1848ABC31BB1A8BA00B69597 /* KPclassesTests.m */; };
 		184AF6261BB1AC2800B25517 /* KPfirstClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 184AF6251BB1AC2800B25517 /* KPfirstClass.m */; };
 		184AF6291BB1AE4B00B25517 /* Project.m in Sources */ = {isa = PBXBuildFile; fileRef = 184AF6281BB1AE4B00B25517 /* Project.m */; };
+		184AF62C1BB1C7E400B25517 /* KPVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 184AF62B1BB1C7E400B25517 /* KPVC.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -43,6 +44,8 @@
 		184AF6251BB1AC2800B25517 /* KPfirstClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KPfirstClass.m; sourceTree = "<group>"; };
 		184AF6271BB1AE4B00B25517 /* Project.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Project.h; sourceTree = "<group>"; };
 		184AF6281BB1AE4B00B25517 /* Project.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Project.m; sourceTree = "<group>"; };
+		184AF62A1BB1C7E400B25517 /* KPVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KPVC.h; sourceTree = "<group>"; };
+		184AF62B1BB1C7E400B25517 /* KPVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KPVC.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +90,8 @@
 				1848ABAB1BB1A8BA00B69597 /* AppDelegate.h */,
 				1848ABAC1BB1A8BA00B69597 /* AppDelegate.m */,
 				1848ABB11BB1A8BA00B69597 /* Main.storyboard */,
+				184AF62A1BB1C7E400B25517 /* KPVC.h */,
+				184AF62B1BB1C7E400B25517 /* KPVC.m */,
 				184AF6241BB1AC2800B25517 /* KPfirstClass.h */,
 				184AF6251BB1AC2800B25517 /* KPfirstClass.m */,
 				184AF6271BB1AE4B00B25517 /* Project.h */,
@@ -224,6 +229,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				184AF62C1BB1C7E400B25517 /* KPVC.m in Sources */,
 				184AF6261BB1AC2800B25517 /* KPfirstClass.m in Sources */,
 				1848ABAD1BB1A8BA00B69597 /* AppDelegate.m in Sources */,
 				1848ABAA1BB1A8BA00B69597 /* main.m in Sources */,
@@ -356,6 +362,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = KPclasses/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -366,6 +373,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = KPclasses/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
